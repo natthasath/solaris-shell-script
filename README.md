@@ -1,1 +1,2 @@
-
+# solaris-shell-script
+A Solaris shell script is a text file containing a sequence of UNIX commands written for the Solaris Operating System. It automates tasks like file management, system monitoring, and user administration, typically using Bourne, Korn, or Bash shell.
